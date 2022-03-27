@@ -74,7 +74,7 @@ Instalações via terminal Linux(Ubuntu):
 
 - Entrar na WEB com o endereço de IP que foi passado através da linha de comando, na barra de pesquisa dar continuidade com **/admin**;
 
-![](/home/gento/Downloads/image-20220327104156439.webp)
+![](https://lh3.googleusercontent.com/5sODyT6EfSCjcKzu7vH2bUHeJynlHRlFacLMdBYeXBGeJHotEzta8bCLCUrQ5-8yIuvjkRzwq35naj_C6F6JCiEog_E32SeD96JX_y_0b-f3fEyX9d-uKlsgmKjGxUcu9TXoUb1a52xnXeNdBCkYiOFYAXj_SnzmCPjdlI7NnfwBdM9lkdgUOa804NPCAlnFLCTYLBNja0xclb1Fjpb-Y6pnpwvvb1AKjuqcl-mqpYqN4kcFvy_eZA_FN7oF8xNlqSIuuSacdcx27xm9CCv_lmLZJV1MGveZNvVLLD9YenjgnN0he75ycIr4gNCESXR37qBv8vT9HlK9yfORNmmeo3OdxDOsw6IJGI16vdawDVCsim7wpC0XqzVA4-YP4yjM56u8WhPd37x2l6rp7DmpuECHXSN3zkwxaRDJU0A3epcNpkq4QgTv_Dg5kOrtzltxKD3SYszPF0nDQJd864Ov7i6DO87RHH88n_JvndNnmlt9yx21H8HcIjHB0PuwKX4eI0-DDjfLLd-CyS6M4GKNyKfCBKRyjj0HlPYOvB9Q_mrolg-mNukaT4km5YvniiwHDVqcdcPwm-WE7EyARwKVzkakj1trV_mKcMkhV-ddh-Uo94isms_gupL7HhTOB1lSuTwk4D5iJxmD2hShseZXja7WU8eFXCLlUwFGlARLc-xOJnWzV646mYs5xM04nEbobUbdLssWc8gEndCMia4-ZEBH7giTqTifJDUBsC1jWQd1Qpmy1aT1tEys2i0tmBj5J0ZY4oAckhO6mv4DzEozbmg2Nba_w2xjT-vN=w1108-h66-no?authuser=0)
 
 ### Criando tabela de pessoas...
 
