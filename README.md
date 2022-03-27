@@ -74,7 +74,7 @@ Instalações via terminal Linux(Ubuntu):
 
 - Entrar na WEB com o endereço de IP que foi passado através da linha de comando, na barra de pesquisa dar continuidade com **/admin**;
 
-![image-20220327104156439](/home/gento/snap/typora/57/.config/Typora/typora-user-images/image-20220327104156439.png)
+![](/home/gento/Downloads/image-20220327104156439.webp)
 
 ### Criando tabela de pessoas...
 
