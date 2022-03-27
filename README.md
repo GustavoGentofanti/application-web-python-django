@@ -76,8 +76,6 @@ Instalações via terminal Linux(Ubuntu):
 
 ![image-20220327104156439](/home/gento/snap/typora/57/.config/Typora/typora-user-images/image-20220327104156439.png)
 
-
-
 ### Criando tabela de pessoas...
 
 - Dentro da IDE, abrir a pasta 'core';
