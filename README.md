@@ -128,3 +128,13 @@ Após isso, entrar novamente na IDE, sistema, settings.py e adicionar comandos n
 
 
 Iniciar novamente o servidor, e as mudanças serão feitas na interface gráfica, um visual mais moderno.
+
+### <h1 align="center"> Final Project... </h1>
+
+### :black_medium_square: Login
+
+![image](https://user-images.githubusercontent.com/98665008/170565117-85afc414-1aa5-40f6-88a5-f17d7f4045c6.png)
+
+### :black_medium_square: Main screen
+
+![image](https://user-images.githubusercontent.com/98665008/170565576-5cbf2964-dba8-4bf3-bba3-3db0c83aaff3.png)
